@@ -55,7 +55,4 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 
 <br /><br /><br /><br /><br /><br/><br/><br/>
 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/nirakar24/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=nirakar24&label=Visitor+Counter&style=for-the-badge&color=0c94b4)

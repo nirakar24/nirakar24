@@ -7,9 +7,9 @@ An Artificial Intelligence and Data Science Engineering student
 I'm still a newbie in Programming, With some knowledge in python & Java I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [jenashubham60@gmail.com](mailto:jenashubham60@gmail.com)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Python desktop based applications
+* ✉️  You can contact me at [jenashubham60@gmail.com](mailto:jenashubham60@gmail.com)
 
 <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -34,20 +34,28 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nirakar_24_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/nirakar_24_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nirakar24"><img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a>
 
+<a href="http://www.github.com/nirakar24"><img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a>
+<br /><br />
 <a href="http://www.github.com/nirakar24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nirakar24/pixio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=pixio&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nirakar24/sound" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=sound&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="left"><a href="https://github.com/nirakar24/pixio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=pixio&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nirakar24/sound" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=sound&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/nirakar24/mediaplayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=mediaplayer&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br/><br/><br/>
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/nirakar24/count.svg" />
+</p>

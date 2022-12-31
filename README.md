@@ -14,6 +14,9 @@ I'm still a newbie in Programming, With some knowledge in python & Java I have w
 <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<img
+src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+
 ### Skills
 
 
@@ -40,10 +43,9 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
+<div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<a href="http://www.github.com/nirakar24"><img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a>
-<br /><br />
-<a href="http://www.github.com/nirakar24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br /><br /> 
 
 <b>Top Repositories</b>
 

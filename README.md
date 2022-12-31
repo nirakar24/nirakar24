@@ -51,7 +51,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <div width="50%" align="left"><a href="https://github.com/nirakar24/pixio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=pixio&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nirakar24/sound" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=sound&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/nirakar24/mediaplayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=mediaplayer&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 

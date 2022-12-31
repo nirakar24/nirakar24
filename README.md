@@ -11,7 +11,7 @@ I'm still a newbie in Programming, With some knowledge in python & Java I have w
 * 🤝  I'm open to collaborating on Python desktop based applications
 * ✉️  You can contact me at [jenashubham60@gmail.com](mailto:jenashubham60@gmail.com)
 
-<a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/nirakar24?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <img

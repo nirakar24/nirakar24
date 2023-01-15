@@ -43,18 +43,8 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <b>My GitHub Stats</b>
 
-<div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="43.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /> 
-
-<b>Top Repositories</b>
-
-<div width="50%" align="left"><a href="https://github.com/nirakar24/pixio" align="left"><img align="left" width="43.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=pixio&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nirakar24/sound" align="right"><img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=sound&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/nirakar24/mediaplayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=mediaplayer&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br/><br/><br/>
+<div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="43.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br/><br/><br/>
+<a href="http://www.github.com/nirakar24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nirakar24&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br /><br /><br /><br /><br /><br /><br />
 
 ![](https://komarev.com/ghpvc/?username=nirakar24&label=Visitor+Counter&style=for-the-badge&color=0c94b4)

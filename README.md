@@ -3,18 +3,24 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 An Artificial Intelligence and Data Science Engineering student
 ---------------------------------------------------------------
-
+<div>
 I'm still a newbie in Programming, With some knowledge in python & Java I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Python desktop based applications
 * ✉️  You can contact me [here](mailto:jenashubham60@gmail.com)
-
+  </br></br>
 <a href="https://github.com/nirakar24?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</br></br>
+  
+![code (1)](https://user-images.githubusercontent.com/101456316/219950964-6a1dbd57-1349-4394-98c8-a5154c44c385.gif)
+  
 
-![programmer](https://user-images.githubusercontent.com/101456316/213974311-6d0e1b71-23c5-4a83-83e8-cdb5aed033d6.gif)
+</div>
+
+
 
 
 ### Skills

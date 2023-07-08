@@ -53,6 +53,9 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 
 <div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&theme=gotham&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br/><br/><br/><br/><br/><br/>
 <a href="http://www.github.com/nirakar24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nirakar24&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![Nirakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/nirakar24/github-readme-activity-graph)
+
 <br /><br /><br /><br />
 
 ![](https://komarev.com/ghpvc/?username=nirakar24&label=Visitor+Counter&style=for-the-badge&color=0c94b4)

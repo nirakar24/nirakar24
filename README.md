@@ -48,13 +48,12 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 </p>
 
 ### Badges
+<br />
 
-<b>My GitHub Stats</b>
-
-<div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&theme=gotham&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br/><br/><br/><br/><br/><br/>
+[![An image of @nirakar24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirakar24)](https://holopin.io/@nirakar24)<br /><br /><br />
 
 [![Nirakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirakar24&theme=github-compact)](https://github.com/nirakar24)
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ![](https://komarev.com/ghpvc/?username=nirakar24&label=Visitor+Counter&style=for-the-badge&color=0c94b4)

@@ -7,8 +7,7 @@ An Artificial Intelligence and Data Science Engineering student
 I'm still a newbie in Programming, With some knowledge in python & Java I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Python desktop based applications
+* 🤝  I'm open to collaborating on desktop based applications and Web applications
 * ✉️  You can contact me [here](mailto:jenashubham60@gmail.com)
   </br></br>
 <a href="https://github.com/nirakar24?tab=followers" target="_blank" rel="noreferrer"><img

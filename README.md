@@ -3,7 +3,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 An Artificial Intelligence and Data Science Engineering student
 ---------------------------------------------------------------
-<div>
+
 ## Aspiring AI & Data Science Professional | Python Developer | Java Enthusiasts | Freelancer
 
 * 🌍  I'm based in India
@@ -17,7 +17,6 @@ src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the
 ![code (1)](https://user-images.githubusercontent.com/101456316/219950964-6a1dbd57-1349-4394-98c8-a5154c44c385.gif)
   
 
-</div>
 
 
 

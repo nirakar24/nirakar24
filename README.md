@@ -1,10 +1,10 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Nirakar Jena
 ====================================================================================================================================
 
-An Artificial Intelligence and Data Science Engineering student
+# An Artificial Intelligence and Data Science Engineering student
 ---------------------------------------------------------------
 
-## Aspiring AI & Data Science Professional | Python Developer | Java Enthusiasts | Freelancer
+### Aspiring AI & Data Science Professional | Python Developer | Java Enthusiasts | Freelancer
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on desktop based applications and Web applications

@@ -13,7 +13,7 @@
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </br></br>
   
-![code (1)]([https://user-images.githubusercontent.com/101456316/219950964-6a1dbd57-1349-4394-98c8-a5154c44c385.gif](https://tenor.com/view/code-coding-computer-gif-19684211))
+![code (1)](https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif)
   
 
 

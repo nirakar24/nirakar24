@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 An Artificial Intelligence and Data Science Engineering student
 ---------------------------------------------------------------
 <div>
-Aspiring AI & Data Science Professional | Python Developer | Java Enthusiasts | Freelancer
+## Aspiring AI & Data Science Professional | Python Developer | Java Enthusiasts | Freelancer
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on desktop based applications and Web applications

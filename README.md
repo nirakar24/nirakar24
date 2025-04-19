@@ -80,15 +80,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&theme=tokyonight&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirakar24&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">

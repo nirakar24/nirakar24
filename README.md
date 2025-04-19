@@ -1,10 +1,12 @@
-<!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI+%26+Data+Science+Professional;Python+Developer;Freelancer;Java+Enthusiast;&center=true&width=1000&height=80&color=FF6F61&vCenter=true&size=25" align="center"/>
+<!-- Profile Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Engineer;Python+%7C+Java+%7C+Full-Stack+Developer;Freelancer+%7C+ML+Explorer+%7C+API+Builder;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=60&color=F78C6C&size=24" />
+</p>
 
 <h1 align="center">Hi there, I'm Nirakar Jena 👋</h1>
 <p align="center">
-  🚀 Aspiring AI & Data Science Professional • Python Developer • Java Enthusiast • Freelancer<br/>
-  💡 Passionate about AI, Web Dev, and Problem Solving
+  🚀 Artificial Intelligence & Data Science Engineer <br/>
+  💡 Building intelligent systems, smart APIs, and elegant UIs.
 </p>
 
 <p align="center">
@@ -12,93 +14,97 @@
   <a href="https://github.com/nirakar24?tab=repositories"><img src="https://img.shields.io/github/stars/nirakar24?label=Stars&style=social" /></a>
 </p>
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,tailwind,bootstrap,typescript,react" />
-</p>
-
----
-
-## 📦 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/nirakar24/ChessGrad_Mod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=ChessGrad_Mod&theme=radical" />
-        <br><b>ChessGrad_Mod</b>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nirakar24/InsightSync2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=InsightSync2.0&theme=radical" />
       </a>
-      <br/><a href="https://chess-grad-mod.vercel.app">🌐 Live Demo</a>
+      <p>🔧 A complete CRM solution with churn prediction, charts, and customer lifecycle intelligence.</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/nirakar24/chart_api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=chart_api&theme=radical" />
-        <br><b>chart_api</b>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nirakar24/Flixio_Recommendation_System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=Flixio_Recommendation_System&theme=radical" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nirakar24/Content_saga">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=Content_saga&theme=radical" />
-        <br><b>Content_saga</b>
-      </a>
-      <br/><a href="https://content-saga.vercel.app">🌐 Live Demo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nirakar24/CRM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=CRM&theme=radical" />
-        <br><b>CRM</b>
-      </a>
+      <p>🎞️ A movie recommendation system using content-based filtering & cosine similarity.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/nirakar24/Chat_Application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=Chat_Application&theme=radical" />
-        <br><b>Chat_Application</b>
-      </a>
-    </td>
-    <td align="center">
+    <td valign="top">
       <a href="https://github.com/nirakar24/chess_review">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=chess_review&theme=radical" />
-        <br><b>chess_review</b>
       </a>
+      <p>♜ React + TypeScript-based tool for chess match analysis powered by Lichess/Chess.com APIs.</p>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/nirakar24/Warehouse_Management_System_API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=Warehouse_Management_System_API&theme=radical" />
+      </a>
+      <p>📦 A FastAPI + PostgreSQL backend for managing inventory, orders, and logistics.</p>
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/nirakar24/pubmed_llm_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=pubmed_llm_api&theme=radical" />
+      </a>
+      <p>🧠 LLM-powered API that summarizes PubMed articles using LangChain & scientific embeddings.</p>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/nirakar24/Pixio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=Pixio&theme=radical" />
+      </a>
+      <p>🎨 A creative image gallery built with clean animations and minimalist UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/nirakar24/MediaPlayer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirakar24&repo=MediaPlayer&theme=radical" />
+      </a>
+      <p>🎧 A Java-based desktop media player with intuitive controls and local playback.</p>
+    </td>
+    <td></td>
+  </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,tailwind,nextjs,flask,fastapi,postgres,mysql,git,vercel" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&theme=radical&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirakar24&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirakar24&show_icons=true&theme=tokyonight&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirakar24&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nirakar24/nirakar24/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ✨ Make sure you enable GitHub Actions and add the [contribution snake GitHub action](https://github.com/Platane/snk) to auto-update that snake!
-
 ---
 
 ## 📬 Let's Connect
 
-- 📍 India  
-- 💬 Open to freelance and collab opportunities  
-- 📧 Email: [nirakarjena24@gmail.com](mailto:jenashubham@gmail.com)  
-- 🔗 GitHub: [@nirakar24](https://github.com/nirakar24)
+- 📍 From India 🇮🇳  
+- 🤝 Open to collaborations & freelance projects  
+- 📧 Email me: [nirakarjena249@gmail.com](mailto:nirakarjena249@gmail.com)
+- 🔗 LinkedIn: [nirakar-jena](https://www.linkedin.com/in/nirakar-jena-ab12b518b/)  
+- 🌐 GitHub: [@nirakar24](https://github.com/nirakar24)
 
 ---
 
-⭐ *If you like my work, please star my projects and follow me!*
+⭐ *If you like what I do, support my work by starring a project or following me!*

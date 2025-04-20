@@ -99,6 +99,7 @@
 - 📧 Email me: [nirakarjena249@gmail.com](mailto:nirakarjena249@gmail.com)
 - 🔗 LinkedIn: [nirakar-jena](https://www.linkedin.com/in/nirakar-jena-ab12b518b/)  
 - 🌐 GitHub: [@nirakar24](https://github.com/nirakar24)
+- 🌎 Website: [nirakar24.vercel.app](https://nirakar24.vercel.app)
 
 ---
 
